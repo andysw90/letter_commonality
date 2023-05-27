@@ -2,14 +2,6 @@
 
 This repository contains a single R script that analyzes the commonality and scrabble point value of N-letter words (e.g., as a Wordle helper). The script uses a list of words and a table of scrabble point values for each letter to calculate the commonality and scrabble value of each N-letter word, and then plots these values in a scatterplot.
 
-## Getting Started
-
-To use the script, clone the repository to your local machine.
-
-```bash
-git clone https://github.com/<username>/scrabble-word-analysis.git
-```
-
 ## Dependencies
 
 The script requires the following R libraries:
